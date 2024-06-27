@@ -1,6 +1,6 @@
 # Data-Integration-and-Analysis-with-Jupyter-APIs-and-SQL
 
-#Project Overview:
+# Project Overview:
 
 In this project, I enhanced my data analytics skills by integrating datasets into Jupyter notebooks using APIs, handling Python-SQL connections,
 cleansing data with Pandas, and crafting SQL queries to extract meaningful insights. This comprehensive project aimed to strengthen my foundational knowledge 
